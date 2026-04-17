@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Andrei's Github!
+  Welcome to James's Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -10,14 +10,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrei's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kamax1226&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Andrei's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kamax4997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Andrei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamax1226&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Andrei's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamax4997&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 </p>
 
 #### :sparkles: I am a JS/TS/PHP/Python/Ruby Developer.
-![I am a JS/TS/PHP/Python/Ruby Developer.](https://github.com/kamax1226/kamax1226/blob/master/background.jpg)
+![I am a JS/TS/PHP/Python/Ruby Developer.](https://github.com/kamax4997/kamax4997/blob/master/background.jpg)
 
 ### 🛠 &nbsp;Tech Stack
 
