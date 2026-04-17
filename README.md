@@ -4,7 +4,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Senior%20Full Stack%20Engineer;7%2B%20years%20of%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Senior%20Full Stack%20Engineer;9%2B%20years%20of%20experience;Always%20learning%20new%20things&center=true&width=380&height=45">
+  </a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
