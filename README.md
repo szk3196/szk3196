@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to James's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh0bzF0amJxdGZwMXF0bnM1cWQwNzdxOHNrNHh2ZXFtdTg4dGRwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
