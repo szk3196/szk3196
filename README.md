@@ -1,13 +1,8 @@
 <h3 align="center">
-  Welcome to James's GitHub!
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHh0bzF0amJxdGZwMXF0bnM1cWQwNzdxOHNrNHh2ZXFtdTg4dGRwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to James's GitHub! 👋
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Senior%20Full Stack%20Engineer;9%2B%20years%20of%20experience;Always%20learning%20new%20things&center=true&width=380&height=45">
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
