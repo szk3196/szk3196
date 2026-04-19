@@ -7,16 +7,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+<a href="https://github-readme-streak-stats-eight.vercel.app/?user=szk3196&theme=dark&hide_border=false"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="James's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=szk3196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="James's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szk3196&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=szk3196&theme=dark&hide_border=false)
-
-![Your GitHub stats](https://github-stars-flame.vercel.app/api?username=szk3196&show_icons=true&theme=codeSTACKr&include_all_commits=true)
-
-![Top Langs](https://github-stars-flame.vercel.app/api/top-langs/?username=szk3196&layout=compact&theme=codeSTACKr&hide=php)
 </p>
 
 #### :sparkles: I am a JS/TS/PHP/Python/Ruby Developer.
