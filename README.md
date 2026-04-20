@@ -54,19 +54,17 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-34A853?style=flat&logo=android&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 
 - 🔭 I’m currently working as a remote Cloud/AI Engineer.
 - 🌱 I’m currently learning AI
