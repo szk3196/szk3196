@@ -22,7 +22,7 @@
 </p>
 
 #### :sparkles: I am a Cloud/AI Engineer.
-![I am a Cloud/AI Engineer.](https://github.com/szk3196/szk3196/blob/master/background.png)
+![I am a Cloud/AI Engineer.](https://github.com/szk3196/szk3196/blob/master/background.jpg)
 
 ### 🛠 &nbsp;Tech Stack
 
