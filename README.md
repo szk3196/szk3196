@@ -24,7 +24,7 @@
 #### :sparkles: I am a Cloud/AI Engineer.
 ![I am a Cloud/AI Engineer.](https://github.com/szk3196/szk3196/blob/master/background.jpg)
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;[Tech Stack](https://gist.github.com/kimjisub/360ea6fc43b82baaf7193175fd12d2f7)
 
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat&logo=terraform&logoColor=white)&nbsp;
