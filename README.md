@@ -68,7 +68,6 @@
 
 - 🔭 I’m currently working as a remote Cloud/AI Engineer.
 - 🌱 I’m currently learning AI
-- 💬 Ask me about anything you want
 - 📫 How to reach me: james.szk3196@gmail.com
 - ⚡ Fun fact: work on Europe and US time zones
 
