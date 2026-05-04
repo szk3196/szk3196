@@ -16,9 +16,9 @@
   <img alt="Michel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=miltan312&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Michel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltan312&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
+</a> -->
 </p>
 
 #### :sparkles: I am a Cloud/AI Engineer.
@@ -67,7 +67,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 
 - 🔭 I’m currently working as a remote Cloud/AI Engineer.
-- 🌱 I’m currently learning AI
-- 📫 How to reach me: Michel.miltan312@gmail.com
-- ⚡ Fun fact: work on Europe and US time zones
+- 🌱 I’m currently learning Blockchain.
+- 📫 How to reach me: michel.tan0312@gmail.com
+- ⚡ Fun fact: I'm flexible in working hours.
 
