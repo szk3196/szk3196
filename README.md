@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to James's GitHub! 👋
+  Welcome to Michel's GitHub! 👋
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auroradream04&label=Profile%20views&color=0e75b6&style=flat" alt="auroradream04" /> </p>
@@ -8,21 +8,21 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="James's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=szk3196&theme=dark&hide_border=false"/>
+  <img alt="Michel's Streak Stats" src="https://github-readme-streak-stats-eight.vercel.app/?user=miltan312&theme=dark&hide_border=false"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="James's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=szk3196&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Michel's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=miltan312&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="James's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szk3196&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Michel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltan312&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </a>
 </p>
 
 #### :sparkles: I am a Cloud/AI Engineer.
-![I am a Cloud/AI Engineer.](https://github.com/szk3196/szk3196/blob/master/background.jpg)
+![I am a Cloud/AI Engineer.](https://github.com/miltan312/miltan312/blob/master/background.jpg)
 
 ### 🛠 &nbsp;[Tech Stack](https://gist.github.com/kimjisub/360ea6fc43b82baaf7193175fd12d2f7)
 
@@ -68,6 +68,6 @@
 
 - 🔭 I’m currently working as a remote Cloud/AI Engineer.
 - 🌱 I’m currently learning AI
-- 📫 How to reach me: james.szk3196@gmail.com
+- 📫 How to reach me: Michel.miltan312@gmail.com
 - ⚡ Fun fact: work on Europe and US time zones
 
